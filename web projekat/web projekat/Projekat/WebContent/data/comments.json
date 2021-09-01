@@ -1,0 +1,22 @@
+{
+  "1" : {
+    "id" : 1,
+    "status" : "IN_PROCESSING",
+    "text" : "SPLACINE!!!!!!!!!!!!!!!!",
+    "customerUsername" : "micpfko",
+    "restaurantName" : "CIAO picerija",
+    "grade" : 1,
+    "approved" : false,
+    "deleted" : false
+  },
+  "2" : {
+    "id" : 2,
+    "status" : "IN_PROCESSING",
+    "text" : "SPLACINEEEEEEEEEEEE!!!!",
+    "customerUsername" : "micpfko",
+    "restaurantName" : "CIAO picerija",
+    "grade" : 1,
+    "approved" : false,
+    "deleted" : false
+  }
+}

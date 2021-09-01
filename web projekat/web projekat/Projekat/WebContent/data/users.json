@@ -1,0 +1,195 @@
+{
+  "a" : {
+    "username" : "a",
+    "password" : "a",
+    "firstName" : "a",
+    "lastName" : "a",
+    "gender" : "FEMALE",
+    "dateOfBirth" : "1999-10-10",
+    "role" : "CUSTOMER",
+    "customerOrders" : null,
+    "basket" : {
+      "article" : null,
+      "customerUsername" : "a",
+      "price" : 0.0
+    },
+    "restaurant" : null,
+    "delivererOrders" : null,
+    "collectedPoint" : 0.0,
+    "customerType" : "BRONZE",
+    "sale" : 0.0,
+    "requiredPoint" : 3000.0,
+    "blocked" : false,
+    "deleted" : false
+  },
+  "ana" : {
+    "username" : "ana",
+    "password" : "ana",
+    "firstName" : "Ana",
+    "lastName" : "Ana",
+    "gender" : "MALE",
+    "dateOfBirth" : "1999-10-10",
+    "role" : "CUSTOMER",
+    "customerOrders" : null,
+    "basket" : {
+      "article" : null,
+      "customerUsername" : "ana",
+      "price" : 0.0
+    },
+    "restaurant" : null,
+    "delivererOrders" : null,
+    "collectedPoint" : 0.0,
+    "customerType" : "BRONZE",
+    "sale" : 0.0,
+    "requiredPoint" : 3000.0,
+    "blocked" : false,
+    "deleted" : false
+  },
+  "vlada" : {
+    "username" : "vlada",
+    "password" : "vlada",
+    "firstName" : "vlada",
+    "lastName" : "vlada",
+    "gender" : "MALE",
+    "dateOfBirth" : "1999-11-11",
+    "role" : "CUSTOMER",
+    "customerOrders" : null,
+    "basket" : {
+      "article" : null,
+      "customerUsername" : "vlada",
+      "price" : 0.0
+    },
+    "restaurant" : null,
+    "delivererOrders" : null,
+    "collectedPoint" : 0.0,
+    "customerType" : "BRONZE",
+    "sale" : 0.0,
+    "requiredPoint" : 3000.0,
+    "blocked" : false,
+    "deleted" : false
+  },
+  "micpfko" : {
+    "username" : "micpfko",
+    "password" : "micko",
+    "firstName" : "Milorad",
+    "lastName" : "Vulovic",
+    "gender" : "MALE",
+    "dateOfBirth" : "1998-12-22",
+    "role" : "CUSTOMER",
+    "customerOrders" : [ {
+      "id" : "0000000001",
+      "orderedArticle" : {
+        "Koka kola" : 2
+      },
+      "restaurant" : {
+        "id" : "1",
+        "name" : "CIAO picerija",
+        "type" : "ITALIAN",
+        "articles" : [ {
+          "id" : "1",
+          "name" : "Koka kola",
+          "type" : "DRINK",
+          "price" : 110.0,
+          "quantity" : 42.0,
+          "description" : "330 ml",
+          "image" : "images/coca-cola.png",
+          "deleted" : false
+        }, {
+          "id" : "2",
+          "name" : "Pancerota",
+          "type" : "FOOD",
+          "price" : 120.0,
+          "quantity" : 42.0,
+          "description" : "sunka, sir ",
+          "image" : "images/pancerota.jpg",
+          "deleted" : false
+        } ],
+        "status" : "OPEN",
+        "location" : {
+          "longitude" : 72.0,
+          "latitude" : 43.26,
+          "adress" : "Balzakova 13, Novi Sad, 21000"
+        },
+        "logo" : "images/rest2.png",
+        "averageGrade" : 5.0,
+        "managerUsername" : "milanmilanovic",
+        "deleted" : false
+      },
+      "dateTimeOrder" : "01-09-2021 12:37",
+      "price" : 220.0,
+      "customerUsername" : "micpfko",
+      "status" : "DELIVERED",
+      "deleted" : false,
+      "delivererUsername" : null
+    } ],
+    "basket" : {
+      "article" : null,
+      "customerUsername" : "micpfko",
+      "price" : 0.0
+    },
+    "restaurant" : {
+      "id" : "1",
+      "name" : "CIAO picerija",
+      "type" : "ITALIAN",
+      "articles" : [ {
+        "id" : "1",
+        "name" : "Koka kola",
+        "type" : "DRINK",
+        "price" : 110.0,
+        "quantity" : 42.0,
+        "description" : "330 ml",
+        "image" : "images/coca-cola.png",
+        "deleted" : false
+      }, {
+        "id" : "2",
+        "name" : "Pancerota",
+        "type" : "FOOD",
+        "price" : 120.0,
+        "quantity" : 42.0,
+        "description" : "sunka, sir ",
+        "image" : "images/pancerota.jpg",
+        "deleted" : false
+      } ],
+      "status" : "OPEN",
+      "location" : {
+        "longitude" : 72.0,
+        "latitude" : 43.26,
+        "adress" : "Balzakova 13, Novi Sad, 21000"
+      },
+      "logo" : "images/rest2.png",
+      "averageGrade" : 5.0,
+      "managerUsername" : "milanmilanovic",
+      "deleted" : false
+    },
+    "delivererOrders" : null,
+    "collectedPoint" : 29.26,
+    "customerType" : "BRONZE",
+    "sale" : 0.0,
+    "requiredPoint" : 2970.74,
+    "blocked" : false,
+    "deleted" : false
+  },
+  "paziSE" : {
+    "username" : "paziSE",
+    "password" : "pazi",
+    "firstName" : "Pa",
+    "lastName" : "Pa",
+    "gender" : "FEMALE",
+    "dateOfBirth" : "1999-11-11",
+    "role" : "CUSTOMER",
+    "customerOrders" : null,
+    "basket" : {
+      "article" : null,
+      "customerUsername" : "paziSE",
+      "price" : 0.0
+    },
+    "restaurant" : null,
+    "delivererOrders" : null,
+    "collectedPoint" : 0.0,
+    "customerType" : "BRONZE",
+    "sale" : 0.0,
+    "requiredPoint" : 3000.0,
+    "blocked" : false,
+    "deleted" : false
+  }
+}
